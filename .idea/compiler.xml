@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="maven-web" />
+        <module name="maven-webapp" />
+        <module name="maven-pagehelper" />
+        <module name="springweb" />
+        <module name="mavenNiXiangProject" />
+        <module name="maven-spring01" />
+        <module name="springweb001" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="ch01-javase-maven" target="1.5" />
+      <module name="ch02-test-maven" target="1.8" />
+      <module name="maven-001" target="1.7" />
+      <module name="maven-002" target="1.7" />
+      <module name="maven-05.27" target="1.7" />
+      <module name="maven-druid" target="1.7" />
+      <module name="maven-pagehelper" target="1.7" />
+      <module name="maven-spring01" target="1.7" />
+      <module name="maven-web" target="1.7" />
+      <module name="maven-webapp" target="1.7" />
+      <module name="mavenNiXiang" target="1.7" />
+      <module name="mavenNiXiangProject" target="1.7" />
+      <module name="spring+mybatis" target="1.8" />
+      <module name="springweb" target="1.8" />
+      <module name="springWeb" target="1.7" />
+      <module name="springweb001" target="1.8" />
+      <module name="WebProject" target="1.7" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

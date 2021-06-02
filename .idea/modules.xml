@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../maven-05.27/maven-05.27/maven-05.27.iml" filepath="$PROJECT_DIR$/../maven-05.27/maven-05.27/maven-05.27.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../maven-druid/maven-druid.iml" filepath="$PROJECT_DIR$/../maven-druid/maven-druid.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../maven-pagehelper/maven-pagehelper.iml" filepath="$PROJECT_DIR$/../maven-pagehelper/maven-pagehelper.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../maven-05.27/maven-05.27/maven-spring01/maven-spring01.iml" filepath="$PROJECT_DIR$/../maven-05.27/maven-05.27/maven-spring01/maven-spring01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../maven-05.27/maven-05.27/maven-web/maven-web.iml" filepath="$PROJECT_DIR$/../maven-05.27/maven-05.27/maven-web/maven-web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../maven-webapp/maven-webapp.iml" filepath="$PROJECT_DIR$/../maven-webapp/maven-webapp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../mavenNiXiangProject/mavenNiXiangProject.iml" filepath="$PROJECT_DIR$/../mavenNiXiangProject/mavenNiXiangProject.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../spring+mybatis/spring+mybatis.iml" filepath="$PROJECT_DIR$/../spring+mybatis/spring+mybatis.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../spring+mybatis/springweb/springweb.iml" filepath="$PROJECT_DIR$/../spring+mybatis/springweb/springweb.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../springweb001/springweb001.iml" filepath="$PROJECT_DIR$/../springweb001/springweb001.iml" />
+    </modules>
+  </component>
+</project>

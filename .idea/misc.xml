@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="FrameworkDetectionExcludesConfiguration">
+    <file type="web" url="file://$PROJECT_DIR$/../ch02-test-maven/maven-001" />
+    <file type="web" url="file://$PROJECT_DIR$/../ch02-test-maven/maven-002" />
+    <file type="web" url="file://$PROJECT_DIR$/../ch02-test-maven/maven-webapp" />
+    <file type="web" url="file://$PROJECT_DIR$/../maven-05.27/maven-05.27/maven-web" />
+    <file type="web" url="file://$PROJECT_DIR$/../maven-webapp" />
+    <file type="web" url="file://$PROJECT_DIR$/../spring+mybatis/springweb" />
+    <file type="web" url="file://$PROJECT_DIR$/../spring+mybatis/WebProject" />
+    <file type="web" url="file://$PROJECT_DIR$/../springWeb" />
+  </component>
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/../maven-webapp/pom.xml" />
+        <option value="$PROJECT_DIR$/../maven-05.27/maven-05.27/pom.xml" />
+        <option value="$PROJECT_DIR$/../maven-pagehelper/pom.xml" />
+        <option value="$PROJECT_DIR$/../maven-05.27/maven-05.27/maven-spring01/pom.xml" />
+        <option value="$PROJECT_DIR$/../maven-druid/pom.xml" />
+        <option value="$PROJECT_DIR$/../spring+mybatis/pom.xml" />
+        <option value="$PROJECT_DIR$/../mavenNiXiangProject/pom.xml" />
+        <option value="$PROJECT_DIR$/../springweb001/pom.xml" />
+      </list>
+    </option>
+    <option name="ignoredFiles">
+      <set>
+        <option value="$PROJECT_DIR$/../ch02-test-maven/maven-002/pom.xml" />
+        <option value="$PROJECT_DIR$/../spring+mybatis/WebProject/pom.xml" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectRootManager">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>
